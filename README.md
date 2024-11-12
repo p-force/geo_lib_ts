@@ -110,7 +110,8 @@ triangle.base = 6; // Генерирует событие "parameterChange"
 Чтобы установить библиотеку, выполните:
 
 ```sh
-  npm install geometry-lib
+  git clone https://github.com/p-force/geo-lib-ts.git
+  npm i
 ```
 
 ### Компиляция
